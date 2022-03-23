@@ -1,3 +1,3 @@
 # dice_game
-I am loving to build and solve problems
-<a href= "https://theabdlz7.github.io/dice_game/">Live Demo</a>
+Someone who hits 100 points first, wins
+<a href= "https://theabdlz7.github.io/dice_game/">Live Demonstration</a>
